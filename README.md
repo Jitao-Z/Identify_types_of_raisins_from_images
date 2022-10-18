@@ -1,4 +1,4 @@
-# NEW
+# CHANGE
 DSCI 100 Project
 hello its omer
 Possible data sets now:
