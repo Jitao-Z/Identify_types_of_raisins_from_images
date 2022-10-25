@@ -1,8 +1,3 @@
-# CHANGE
-DSCI 100 Project
-hello its omer
-Possible data sets now:
-https://www.kaggle.com/datasets/abcsds/pokemon
-https://mail.google.com/mail/u/0/#inbox/FMfcgzGqQwDMcRtnZTGhpGLVdxXSqGCW?projector=1&messagePartId=0.1
-this is working! yeah!
-work!!
+# DSCI 100 Project
+This is the website showing Raisin data: https://archive.ics.uci.edu/ml/datasets/Raisin+Dataset
+--> it should include some important information that you want to obtain in your written parts
